@@ -50,7 +50,6 @@ Technologies I've been learning and using so far :
     [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=MongoDB&logoColor=light-green)]()
 <!--     [![MSSQL](https://www.logowik.com/content/uploads/images/microsoft-sql-server4529.jpg)]() -->
 
-    <a href="https://github.com/badges/shields"><img src="https://www.logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="MS SQL"></a>
 - Cloud : <br /> 
     [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)]()
     [![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28)]()
