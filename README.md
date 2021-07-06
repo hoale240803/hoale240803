@@ -36,21 +36,21 @@ Technologies I've been learning and using so far :
     [![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)]()
     [![Angular](https://img.shields.io/badge/-Angular-EEE?style=flat-square&logo=angular&logoColor=DD0031)]()
     [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)]()
-    [![JavaScript](https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png)]()
-    [![Java](https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg)]()
-    [![Jquery](https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png)]()
+    [![JavaScript](http://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=JavaScript&logoColor=563D7C)]()
+    [![Jquery](http://img.shields.io/badge/-Jquery-eee?style=flat-square&logo=Jquery&logoColor=563D7C)]()
     
 - Backend : <br />
-    [![Java](https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg)]()
-    [![C#](https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png)]()
-    [![NodeJS](https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png)]()   
+    [![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=Java&logoColor=563D7C)]()
+    [![C#](https://img.shields.io/badge/-CSharp-eee?style=flat-square&logo=csharp&logoColor=123456)]()
+    [![NodeJS](https://img.shields.io/badge/-NodeJs-eee?style=flat-square&logo=nodedotjs&logoColor=green)]()   
     [![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)]()
     
 - Database : <br /> Mysql
-    [![Mysql](https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png)]()
-    [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)]()
-    [![MS SQL](https://www.logowik.com/content/uploads/images/microsoft-sql-server4529.jpg)]()
+    [![Mysql](https://img.shields.io/badge/-Mysql-eee?style=flat-square&logo=Mysql&logoColor=blue)]()
+    [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=MongoDB&logoColor=light-green)]()
+<!--     [![MSSQL](https://www.logowik.com/content/uploads/images/microsoft-sql-server4529.jpg)]() -->
 
+    <a href="https://github.com/badges/shields"><img src="https://www.logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="MS SQL"></a>
 - Cloud : <br /> 
     [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)]()
     [![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28)]()
