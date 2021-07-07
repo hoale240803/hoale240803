@@ -1,8 +1,6 @@
-### Hi there 👋 I'm Hoa Leo. I'm a Web Developer. I'm a person who loves contributing something to the community, society. In my opinion, I always think that giveaway is forever still there. don't be shy when you can share something awesome with me or just ping me, I promise that I always try my best to help you.
+##### Hi there 👋 I'm Hoa Leo. I'm a Web Developer. I'm a person who loves contributing something to the community, society. In my opinion, I always think that giveaway is forever still there. don't be shy when you can share something awesome with me or just ping me, I promise that I always try my best to help you.
 
-
-**hoale240803/hoale240803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,12 +10,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/hoaleo1999/)
-[![My Notes]()]()
-[![Buy Me A Coffee]()]()
-
+<!-- [![My Notes]()]()
+[![Buy Me A Coffee]()]() -->
 I'm a child of Vietnamese who lives in the middle of Da Nang City. I'd like to learn something new every day. I'm a **Web Developer** and currently a **Front End Dev**.
 
 - 🌱 On the way of learning *Advanced Web* & *Mobile App* (also enjoying AI).
@@ -58,7 +55,7 @@ Technologies I've been learning and using so far :
     
 - Mobile : <br /> 
     [![Android Studio](https://img.shields.io/badge/-android-eee?style=flat-square&logo=android&logoColor=green)]()
-<!--     [![React Native](https://www.appcoda.com/wp-content/uploads/2015/04/react-native.png)]() -->
+    <!--     [![React Native](https://www.appcoda.com/wp-content/uploads/2015/04/react-native.png)]() -->
  
 - OS & IDE & Tools : <br />  
     [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)]()
@@ -66,7 +63,7 @@ Technologies I've been learning and using so far :
     [![Visual Studio](https://img.shields.io/badge/-Visaul-eee?style=flat-square&logo=visualStudio&logoColor=2000a5)]()
     [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)]()
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)]()
-<!--     [![Sphinx doc]()](/sphinx-restructuredtext) -->
-<!--     [![Solr](https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_solr_logo_icon_169580.png)]() -->
-    [![Elastic Search](https://img.shields.io/badge/-ElasticSearch-eee?style=flat-square&logo=ElasticSearch&logoColor=207ea5)]()
+    [![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-eee?style=flat-square&logo=ElasticSearch&logoColor=207ea5)]()
+    <!--     [![Sphinx doc]()](/sphinx-restructuredtext) -->
+    <!--     [![Solr](https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_solr_logo_icon_169580.png)]() -->
 
