@@ -20,7 +20,7 @@ I'm a child of Vietnamese who lives in the middle of Da Nang City. I'd like to l
 - 🌱 On the way of learning *Advanced Web* & *Mobile App* (also enjoying AI).
 <!-- - 🔥 Most proud of -->
 <!-- - 📚 My notes of learning at [dinhanhthi.com](http://dinhanhthi.com/). -->
-- 😍 My hobbies are [Soccer](https://cdn.icon-icons.com/icons2/2622/PNG/512/sport_soccer_icon_157423.png), [Cooking](https://www.goodreads.com/user/show/19630622-thi-dinh) and [cooking](https://cdn.iconscout.com/icon/premium/png-256-thumb/cooking-2440578-2037366.png).
+- 😍 My hobbies are [Soccer](https://cdn.icon-icons.com/icons2/2622/PNG/512/sport_soccer_icon_157423.png) and [Cooking] 
 - 💌 Contact me at [lehoa08121998@gmail.com](mailto:lehoa08121998@gmail.com).
 
 Technologies I've been learning and using so far :
