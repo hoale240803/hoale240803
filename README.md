@@ -39,11 +39,14 @@ Technologies I've been learning and using so far :
   [![NodeJS](https://img.shields.io/badge/-NodeJs-eee?style=flat-square&logo=nodedotjs&logoColor=green)]()  
   [![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)]()
   
+- Framework:
+  [![.Net](https://img.shields.io/badge/-.Net-eee?style=flat-square&logo=.Net&logoColor=512BD4)]()
+
+  
 - Database : <br />
   [![Mysql](https://img.shields.io/badge/-Mysql-eee?style=flat-square&logo=Mysql&logoColor=blue)]()
   [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=MongoDB&logoColor=light-green)]()
   [![MSSQL](https://img.shields.io/badge/-MSSQL-eee?style=flat-square&logo=MicrosoftSQLServer&logoColor=CC2927)]()
-
 
 - Cloud : <br />
   [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)]()
