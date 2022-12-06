@@ -40,8 +40,9 @@ Technologies I've been learning and using so far :
   [![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)]()
   
 - Framework: <br />
-  [![](https://img.shields.io/badge/-.Net-eee?style=flat-square&logo=.Net&logoColor=512BD4)]()
-
+  [![.Net](https://img.shields.io/badge/-.Net-eee?style=flat-square&logo=.Net&logoColor=512BD4)]()
+  [![DevExpress](https://img.shields.io/badge/-DevExpress--eee?style=flat-square&logo=devexpress&logoColor=FF7200)]()
+  
   
 - Database : <br />
   [![Mysql](https://img.shields.io/badge/-Mysql-eee?style=flat-square&logo=Mysql&logoColor=blue)]()
@@ -55,6 +56,6 @@ Technologies I've been learning and using so far :
 
 - OS & IDE & Tools : <br />  
   [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)]()
-  [![Visual Studio](https://img.shields.io/badge/-Visaul-eee?style=flat-square&logo=visualStudio&logoColor=2000a5)]()
+  [![Visual Studio](https://img.shields.io/badge/-Visual Studio-eee?style=flat-square&logo=visualStudio&logoColor=2000a5)]()
   [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)]()
   [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)]()
