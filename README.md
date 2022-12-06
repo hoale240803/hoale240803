@@ -56,11 +56,11 @@ Technologies I've been learning and using so far :
   [![Visual Studio](https://img.shields.io/badge/-VisualStudio-eee?style=flat-square&logo=visualStudio&logoColor=2000a5)]()
   [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)]()
   
-- OS
+- OS: <br />
   [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)]()
   [![Windows](http://img.shields.io/badge/-Windows-eee?style=flat-square&logo=Windows&logoColor=0078D6)]()
   
-- Task Management Tools
+- Task Management Tools: <br />
   [![Jira](http://img.shields.io/badge/-Jira-eee?style=flat-square&logo=Jira&logoColor=0052CC)]()
   [![Monday](http://img.shields.io/badge/-Monday-eee?style=flat-square&logo=Monday&logoColor=purple)]()
  
