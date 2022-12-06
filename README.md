@@ -56,6 +56,6 @@ Technologies I've been learning and using so far :
 
 - OS & IDE & Tools : <br />  
   [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)]()
-  [![Visual Studio](https://img.shields.io/badge/-Visual Studio-eee?style=flat-square&logo=visualStudio&logoColor=2000a5)]()
+  [![Visual Studio](https://img.shields.io/badge/-VisualStudio-eee?style=flat-square&logo=visualStudio&logoColor=2000a5)]()
   [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)]()
   [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)]()
