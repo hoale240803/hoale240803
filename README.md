@@ -39,7 +39,7 @@ Technologies I've been learning and using so far :
   
 - Framework: <br />
   [![.Net](https://img.shields.io/badge/-.Net-eee?style=flat-square&logo=.Net&logoColor=512BD4)]()
-  [![DevExpress](https://img.shields.io/badge/-DevExpress--eee?style=flat-square&logo=devexpress&logoColor=FF7200)]()
+  [![DevExpress](https://img.shields.io/badge/-DevExpress-eee?style=flat-square&logo=devexpress&logoColor=FF7200)]()
   
 - Database : <br />
   [![Mysql](https://img.shields.io/badge/-Mysql-eee?style=flat-square&logo=Mysql&logoColor=blue)]()
