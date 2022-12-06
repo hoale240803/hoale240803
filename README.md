@@ -48,7 +48,7 @@ Technologies I've been learning and using so far :
 - Cloud : <br />
   [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)]()
   [![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28)]()
-  [![AWS](https://voicefoundry.com/wp-content/uploads/2018/09/feature-aws-300x169.jpg)]()
+  [![AWS](https://img.shields.io/badge/-AWS-EEE?style=flat-square&logo=aws&logoColor=232F3E)]()
 
 - OS & IDE & Tools : <br />  
   [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)]()
