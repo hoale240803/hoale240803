@@ -23,8 +23,6 @@ I'm a child of Vietnamese who lives in the middle of Da Nang City. I'd like to l
 
 Technologies I've been learning and using so far :
 
-- Programming languages : <br />
-
 - Frontend : <br />
   [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)]()
   [![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)]()
@@ -43,7 +41,6 @@ Technologies I've been learning and using so far :
   [![.Net](https://img.shields.io/badge/-.Net-eee?style=flat-square&logo=.Net&logoColor=512BD4)]()
   [![DevExpress](https://img.shields.io/badge/-DevExpress--eee?style=flat-square&logo=devexpress&logoColor=FF7200)]()
   
-  
 - Database : <br />
   [![Mysql](https://img.shields.io/badge/-Mysql-eee?style=flat-square&logo=Mysql&logoColor=blue)]()
   [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=MongoDB&logoColor=light-green)]()
@@ -54,7 +51,7 @@ Technologies I've been learning and using so far :
   [![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28)]()
   [![AWS](https://img.shields.io/badge/-AWS-EEE?style=flat-square&logo=amazonaws&logoColor=232F3E)]()
 
-- OS & IDE & Tools : <br />  
+- OS & IDE & Tools : <br />
   [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)]()
   [![Visual Studio](https://img.shields.io/badge/-VisualStudio-eee?style=flat-square&logo=visualStudio&logoColor=2000a5)]()
   [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)]()
