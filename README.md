@@ -36,7 +36,7 @@ Technologies I've been learning and using so far :
   
 - Backend : <br />
   [![C#](https://img.shields.io/badge/-CSharp-eee?style=flat-square&logo=csharp&logoColor=123456)]()
-  [![NodeJS](https://img.shields.io/badge/-NodeJs-eee?style=flat-square&logo=nodedotjs&logoColor=green)]()  
+  [![NodeJS](https://img.shields.io/badge/-NodeJs-eee?style=flat-square&logo=nodedotjs&logoColor=green)]()
   [![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)]()
   
 - Framework: <br />
