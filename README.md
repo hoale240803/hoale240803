@@ -42,7 +42,8 @@ Technologies I've been learning and using so far :
 - Database : <br />
   [![Mysql](https://img.shields.io/badge/-Mysql-eee?style=flat-square&logo=Mysql&logoColor=blue)]()
   [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=MongoDB&logoColor=light-green)]()
-  [![MSSQL](https://www.logowik.com/content/uploads/images/microsoft-sql-server4529.jpg)]()
+  [![MSSQL](https://img.shields.io/badge/-Mysql-eee?style=flat-square&logo=Microsoft SQL Server&logoColor=blue)]()
+
 
 - Cloud : <br />
   [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)]()
