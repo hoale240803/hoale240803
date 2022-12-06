@@ -51,8 +51,17 @@ Technologies I've been learning and using so far :
   [![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28)]()
   [![AWS](https://img.shields.io/badge/-AWS-EEE?style=flat-square&logo=amazonaws&logoColor=232F3E)]()
 
-- OS & IDE & Tools : <br />
+- IDE & Tools : <br />
   [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)]()
   [![Visual Studio](https://img.shields.io/badge/-VisualStudio-eee?style=flat-square&logo=visualStudio&logoColor=2000a5)]()
-  [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)]()
   [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)]()
+  
+- OS
+  [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)]()
+  [![Windows](http://img.shields.io/badge/-Windows-eee?style=flat-square&logo=Windows&logoColor=0078D6)]()
+  
+- Task Management Tools
+  [![Jira](http://img.shields.io/badge/-Jira-eee?style=flat-square&logo=Jira&logoColor=0052CC)]()
+  [![Monday](http://img.shields.io/badge/-Monday-eee?style=flat-square&logo=Monday&logoColor=purple)]()
+ 
+  
