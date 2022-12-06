@@ -42,7 +42,7 @@ Technologies I've been learning and using so far :
 - Database : <br />
   [![Mysql](https://img.shields.io/badge/-Mysql-eee?style=flat-square&logo=Mysql&logoColor=blue)]()
   [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=MongoDB&logoColor=light-green)]()
-  [![MSSQL](https://img.shields.io/badge/-MSSQL-eee?style=flat-square&logo=MicrosoftSQLServer&logoColor=blue)]()
+  [![MSSQL](https://img.shields.io/badge/-MSSQL-eee?style=flat-square&logo=MicrosoftSQLServer&logoColor=#CC2927)]()
 
 
 - Cloud : <br />
