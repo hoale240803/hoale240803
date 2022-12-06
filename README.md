@@ -39,8 +39,8 @@ Technologies I've been learning and using so far :
   [![NodeJS](https://img.shields.io/badge/-NodeJs-eee?style=flat-square&logo=nodedotjs&logoColor=green)]()  
   [![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)]()
   
-- Framework:
-  [![.Net](https://img.shields.io/badge/-.Net-eee?style=flat-square&logo=.Net&logoColor=512BD4)]()
+- Framework: <br />
+  [![](https://img.shields.io/badge/-.Net-eee?style=flat-square&logo=.Net&logoColor=512BD4)]()
 
   
 - Database : <br />
